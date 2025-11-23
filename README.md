@@ -56,7 +56,7 @@ API will be available on port 5100:
 
 ## 📡 API Endpoints
 
-### 1️⃣ تحلیل کامل 
+### 1️⃣ Full analysis 
 ```http
 POST /api/comment/analyze
 Content-Type: application/json
@@ -104,7 +104,7 @@ Content-Type: application/json
 }
 ```
 
-### 2️⃣ خلاصه ساده
+### 2️⃣ Simple summary
 ```http
 POST /api/comment/summary
 Content-Type: application/json
@@ -114,7 +114,7 @@ Content-Type: application/json
 }
 ```
 
-### 3️⃣ تحلیل جزئی هر کامنت
+### 3️⃣ Detailed analysis of each comment
 ```http
 POST /api/comment/detailed
 Content-Type: application/json
@@ -124,12 +124,12 @@ Content-Type: application/json
 }
 ```
 
-### 4️⃣ دریافت نمونه کامنت
+### 4️⃣ Get a sample comment
 ```http
 GET /api/comment/sample
 ```
 
-### 5️⃣ بررسی سلامت سیستم
+### 5️⃣ System health check
 ```http
 GET /api/comment/health
 ```
