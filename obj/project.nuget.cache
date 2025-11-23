@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDay0bI5VJI=",
+  "success": true,
+  "projectFilePath": "D:\\hamtarayaneh\\ollama\\CommentAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\azure.ai.openai\\2.1.0-beta.2\\azure.ai.openai.2.1.0-beta.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.ai\\9.7.0\\microsoft.extensions.ai.9.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.7.0\\microsoft.extensions.ai.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.ai.ollama\\9.7.0-preview.1.25356.2\\microsoft.extensions.ai.ollama.9.7.0-preview.1.25356.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.7\\microsoft.extensions.caching.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.7\\microsoft.extensions.logging.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.0.0-preview.1.24523.1\\microsoft.extensions.vectordata.abstractions.9.0.0-preview.1.24523.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.semantickernel\\1.31.0\\microsoft.semantickernel.1.31.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.semantickernel.abstractions\\1.31.0\\microsoft.semantickernel.abstractions.1.31.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.semantickernel.connectors.azureopenai\\1.31.0\\microsoft.semantickernel.connectors.azureopenai.1.31.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.semantickernel.connectors.openai\\1.31.0\\microsoft.semantickernel.connectors.openai.1.31.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.semantickernel.core\\1.31.0\\microsoft.semantickernel.core.1.31.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\ollamasharp\\3.0.8\\ollamasharp.3.0.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\openai\\2.1.0-beta.2\\openai.2.1.0-beta.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.6\\swashbuckle.aspnetcore.9.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.6\\swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.7\\system.diagnostics.diagnosticsource.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.net.http.json\\9.0.7\\system.net.http.json.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.channels\\9.0.7\\system.threading.channels.9.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CommentAnalyzer depends on Microsoft.Extensions.AI (>= 9.7.0-preview.1.25356.2) but Microsoft.Extensions.AI 9.7.0-preview.1.25356.2 was not found. Microsoft.Extensions.AI 9.7.0 was resolved instead.",
+      "projectPath": "D:\\hamtarayaneh\\ollama\\CommentAnalyzer.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\hamtarayaneh\\ollama\\CommentAnalyzer.csproj",
+      "libraryId": "Microsoft.Extensions.AI",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
